@@ -1,8 +1,0 @@
-{
-    "appService.zipIgnorePattern": [
-        "node_modules{,/**}",
-        ".vscode{,/**}"
-    ],
-    "appService.defaultWebAppToDeploy": "/subscriptions/5223d96d-eecc-4158-a4c2-d3fed9ff5d9c/resourceGroups/rg-vscode-dev-373255/providers/Microsoft.Web/sites/app-web-ay6heanozuxjc",
-    "appService.deploySubpath": ".azdo\\pipelines"
-}
